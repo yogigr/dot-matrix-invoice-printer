@@ -7,6 +7,10 @@
     "test": "node test/test.js"
   },
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yogigr/dot-matrix-invoice-printer.git"
+  },
   "keywords": [
     "escp",
     "printer",
