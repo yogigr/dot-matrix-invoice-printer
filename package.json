@@ -1,0 +1,26 @@
+{
+  "name": "@yogigr/dot-matrix-invoice-printer",
+  "version": "1.0.0",
+  "description": "\"DotMatrixInvoicePrinter\" is a specialized Node.js package designed to simplify and enhance dot matrix printing capabilities specifically for invoice and receipt generation. This package streamlines the process of creating, formatting, and printing invoices on dot matrix printers, offering developers an efficient and user-friendly solution for point-of-sale (POS) systems and invoicing applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "type": "module",
+  "keywords": [
+    "escp",
+    "printer",
+    "dot",
+    "matrix",
+    "raw",
+    "printing",
+    "dot",
+    "matrix",
+    "invoice"
+  ],
+  "author": "Yogi Gilang Ramadhan <yogigilang182@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@yogigr/escp-client": "^1.0.0-rc.2"
+  }
+}
